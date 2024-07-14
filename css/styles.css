@@ -1,0 +1,94 @@
+/* ################# id ################### */
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+/* ############ TAG ##################### */
+
+h1 {
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 900;
+  margin-top: 64px;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+/* ################# CLASS ##################### */
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: 300;
+}
+
+/* download buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  width: 60%;
+  transform: rotate(15deg);
+  margin-left: 64px;
+}
+
+/* ################### SECTION 2 ################## */
+
+.feat {
+  font-size: 1.5rem;
+  font-family: "Montserrat";
+  font-weight: 700;
+  text-align: center;
+}
+
+.feat2 {
+  color: #8f8f8f;
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.fa2 {
+  color: #ef8172;
+
+  margin-bottom: 2rem;
+}
+
+.fa2:hover {
+  color: #ff4c68;
+}
+
+#features {
+  padding: 7% 5%;
+}
+
+.feat3 {
+  text-align: center;
+}
