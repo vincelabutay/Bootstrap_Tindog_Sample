@@ -29,7 +29,7 @@ h2 {
 /* ################# CLASS ##################### */
 
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 /* Navigation Bar */
@@ -64,6 +64,8 @@ h2 {
   width: 60%;
   transform: rotate(15deg);
   margin-left: 64px;
+  position: absolute;
+  right: 20%;
 }
 
 /* ################### SECTION 2 ################## */
@@ -94,6 +96,9 @@ h2 {
 
 #features {
   padding: 7% 5%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
 }
 
 .feat3 {
