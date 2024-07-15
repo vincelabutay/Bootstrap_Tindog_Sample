@@ -115,6 +115,10 @@ h2 {
   margin: 20px;
 }
 
+.carousel-item {
+  padding: 7% 15%;
+}
+
 /* #### PRESS #####  */
 #press {
   background-color: #ef8172;
@@ -125,4 +129,15 @@ h2 {
 .press-logo {
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+/* ##### PRICING ###### */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
 }
